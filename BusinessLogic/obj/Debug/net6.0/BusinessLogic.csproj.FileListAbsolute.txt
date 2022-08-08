@@ -1,0 +1,17 @@
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\Common.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\Model.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\Common.pdb
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\bin\Debug\net6.0\Model.pdb
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\KompMaster\source\repos\TelegramBotFinal\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll

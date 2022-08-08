@@ -1,0 +1,12 @@
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\bin\Debug\net6.0\Model.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\KompMaster\source\repos\TelegramBotFinal\Model\obj\Debug\net6.0\ref\Model.dll
